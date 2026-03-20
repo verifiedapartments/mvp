@@ -1,0 +1,1 @@
+{\n  "name": "mvp",\n  "private": true,\n  "workspaces": [\n    "packages/*"\n  ],\n  "scripts": {\n    "start": "vite",\n    "build": "vite build",\n    "test": "jest"\n  },\n  "devDependencies": {\n    "vite": "latest",\n    "jest": "latest",\n    "typescript": "latest",\n    "tailwindcss": "latest",\n    "postcss": "latest",\n    "autoprefixer": "latest"\n  }\n}
